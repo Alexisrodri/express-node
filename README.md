@@ -93,3 +93,10 @@ Todas las respuestas siguen el formato:
   }
 }
 ```
+
+Imagenes de prueba
+<img width="1142" height="631" alt="image" src="https://github.com/user-attachments/assets/1bb543be-dd60-4150-9559-51323b3be378" />
+<img width="1151" height="624" alt="image" src="https://github.com/user-attachments/assets/9a0c4be5-1841-400f-99a7-031258d49084" />
+<img width="1152" height="624" alt="image" src="https://github.com/user-attachments/assets/cfa7c8bc-743b-4567-95e2-5499700ab06d" />
+
+
